@@ -19,7 +19,7 @@ function App() {
           <input
             type="text"
             className="flex-1 p-2 border rounded"
-            placeholder="Nhập công việc..."
+            placeholder="Nhậpp công việc..."
             value={input}
             onChange={(e) => setInput(e.target.value)}
           />
